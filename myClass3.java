@@ -7,7 +7,7 @@ public class myClass3
 		try
 		{
 			int a=5,b=0,c;
-			c=a/b;
+			c=a+b-1;
 			
 		}
 		catch(Exception e)
