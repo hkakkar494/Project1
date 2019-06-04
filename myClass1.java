@@ -8,7 +8,7 @@ public class myClass1
 		Scanner s1=new Scanner(System.in);
 		a=s1.nextInt();
 		b=s1.nextInt();
-		c=a+b;
+		c=a*b;
 		System.out.print("Output is " + c);
 		s1.close();
 	}
